@@ -16,3 +16,5 @@ neural network to classify whether the number of confirmed cases would increase 
 
 <br> Visulization of the prediction result on a world map
 ![img](https://i.imgur.com/138SAnf.png)
+
+Please refer to the homework instruction, code, and report for more detailed information.
