@@ -1,4 +1,4 @@
-# Recurrent-Neural-Network-for-COVID-19-Worldwide-Confirmed-Cases-Prediction
+# RNN-for-COVID-19-Confirmed-Cases-Prediction
 
 NCTU ECM Deep Learning Course Homework 2-1
 
